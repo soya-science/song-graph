@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+
+# Source dataset (copyrighted lyrics) and generated pipeline output
+spotify_millsongdata.csv
+data/
+web/public/data/
+
+# Web build
+web/node_modules/
+web/dist/
+*.tsbuildinfo
+
+# Misc
+*.log
